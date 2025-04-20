@@ -6,17 +6,16 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 ![Badge Concluido](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
-# Índice 
+# Índice
 
-* [Inicio](#NOMEDAEMPRESA)
-* [Índice](#índice)
+* [Início](#ivru-company)
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Funcionalidades ](#funcionalidades)
-* [Demonstração da Aplicação](#demonstração)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Funcionalidades do Projeto](#hammer-funcionalidades-do-projeto)
+* [Demonstração da Aplicação](#demonstração-da-aplicação)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [Autores](#autores)
 * [Licença](#licença)
-* [Conclusão](#conclusão)
+
 
 # Descrição do Projeto 
 
