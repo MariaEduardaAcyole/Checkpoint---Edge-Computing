@@ -104,4 +104,3 @@ Além disso, você precisará do hardware adequado:
 
 Copyright :copyright: 2025 - Sistema de Monitoramento de Luminosidade para Adega – Vinheria Agnello
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
