@@ -47,7 +47,7 @@ A solução utiliza **Arduino** para capturar dados de luminosidade (com um sens
 
 ## Demonstração da Aplicação
 
-![Video da prática](https://www.youtube.com/watch?v=bMINbjy88VI)
+[![Video da prática](https://img.youtube.com/vi/bMINbjy88VI/0.jpg)](https://www.youtube.com/watch?v=bMINbjy88VI)
 
 ## Tecnologias Utilizadas
 
