@@ -47,7 +47,7 @@ A solução utiliza **Arduino** para capturar dados de luminosidade (com um sens
 
 ## Demonstração da Aplicação
 
-![Video da prática](video.mp4)
+![Video da prática](https://youtu.be/bMINbjy88VI)
 
 ## Tecnologias Utilizadas
 
@@ -98,7 +98,7 @@ Além disso, você precisará do hardware adequado:
 - [Maria Eduarda Sousa Acyole de Oliveira `566337`](https://github.com/MariaEduardaAcyole)
 - [Matheus Goes da Silva `566407`](https://github.com/Goes1404)
 - [Arthur Marcio de Barros Silva `563359`](https://github.com/TutuMbs)
-- [Gabriela Abdallah Tavares](https://github.com/GabihAbdTavares)
+- [Gabriela Abdelnor Tavares `562291`](https://github.com/GabihAbdTavares)
 
 ## Licença
 
